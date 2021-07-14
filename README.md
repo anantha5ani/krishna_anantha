@@ -16,7 +16,7 @@
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Anantha Krishna__, a seasoned data scientist with over 8 years of progressive experience in artificial intelligence. Worked across Retail, TMT, FI domains primarily.
 
 
 <!-- Add link to the sections -->
@@ -31,13 +31,16 @@ I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive 
 ### EXPERIENCE
 <!-- Add your details -->
 ##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+LEAD ANALYST<br>
+Aug-2018 to Present: 3 years 0 Months
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
+ROLE: Data Scientist
 UNIT: BCG GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+
+##### RISE
+Mar-2021 to Present: 0 years 3 months
 
 <!-- EXPERIENCE Section Ends -->
 
