@@ -24,6 +24,7 @@ I am __Anantha Krishna__, a seasoned data scientist with over 8 years of progres
 [Education](#education) <br>
 [Projects](#projects) <br>
 [Featured](#featured) <br> 
+[Freelancing](#freelancing) <br>
 
 <!-- ABOUT Section Ends -->
 
@@ -86,3 +87,6 @@ Machine Learning by Columbia University
 ##### Achievements
 Star performer of the year at Accenture
 <!-- FEATURED Section Ends -->
+
+### FREELANCING
+I have done freelancing for the past 5 years of my career.
